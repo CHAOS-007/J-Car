@@ -2,8 +2,19 @@
 	"folders": [
 		{
 			"name": "J-Car",
-			"path": ".\\"
+			"path": "./"
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"platformio.platformio-ide",
+			"coenraads.bracket-pair-colorizer-2",
+			"yzhang.markdown-all-in-one",
+			"tomoki1207.pdf",
+			"ms-vscode.cpptools-extension-pack",
+			"oderwat.indent-rainbow",
+			"esbenp.prettier-vscode"
+		]
+	}
 }

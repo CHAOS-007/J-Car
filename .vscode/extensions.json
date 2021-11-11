@@ -2,6 +2,12 @@
     // See http://go.microsoft.com/fwlink/?LinkId=827846
     // for the documentation about the extensions.json format
     "recommendations": [
-        "platformio.platformio-ide"
+        "coenraads.bracket-pair-colorizer-2",
+        "esbenp.prettier-vscode",
+        "ms-vscode.cpptools-extension-pack",
+        "oderwat.indent-rainbow",
+        "platformio.platformio-ide",
+        "tomoki1207.pdf",
+        "yzhang.markdown-all-in-one"
     ]
 }
